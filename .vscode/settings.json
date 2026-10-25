@@ -1,8 +1,0 @@
-{
-    "chat.tools.terminal.autoApprove": {
-        "/^git status -sb && echo '---' && git remote -v$/": {
-            "approve": true,
-            "matchCommandLine": true
-        }
-    }
-}

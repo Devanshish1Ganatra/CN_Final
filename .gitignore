@@ -1,5 +1,0 @@
-# Ignore compiled binaries and sender programs for Lab 3
-lab3/**/sender
-lab3/**/sender.c
-lab3/**/receiver
-lab3/**/*.o
